@@ -11,12 +11,13 @@ body{
     margin: 20px;
 }
 
-.img {
+img {
     display: flex;
     margin-top: 20px;
     margin-left: 12px;
     justify-content: center;
     align-items: center;
+    max-width: 50%;
 }
 .greeting {
     display: flex;
